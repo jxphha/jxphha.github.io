@@ -4,14 +4,13 @@ title: 关于我
 ---
 <h3>📋<strong>公告</strong></h3>  
 
-本站自2018年5月1日起暂时不再继续更新，仅供学习参观！
+本站仅供学习参观！
 
-目前我的新站点为[北岛向南的小屋](https://zhouie.cn).欢迎访问~
 
 <hr>
 <h3>🎓<strong>关于我</strong></h3>
 
-&nbsp;🔹长期生活在中国以南地区
+&nbsp;🔹长期生活在中国以江南地区
 
 &nbsp;🔹年少时也曾在日记本偷偷写下————以后出国去香榭丽舍大街养老的梦
 
@@ -29,7 +28,7 @@ title: 关于我
 <hr>
 <h3>🐕<strong>友情链接</strong></h3>
 <p>
-&nbsp;🔹<a href="https://zhouie.cn/">北岛向南的小屋</a>🔞了解一下？<p>
+&nbsp;🔹<a href="http://www.jxphhl.host1.freeyun.cf/">我的影视站</a>🔞了解一下？<p>
 
 &nbsp;🔹<a href="http://ericxie.coding.me/">EricXie's Blog</a>，教书匠，👨伪码农<p>
 
